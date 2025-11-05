@@ -1,7 +1,7 @@
-main();
+start();
 
-async function main() {
-  const y = 1213;
+async function start() {
+  const y = 12;
 
   console.log(y ^ 3);
 }
