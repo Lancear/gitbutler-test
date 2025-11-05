@@ -1,7 +1,7 @@
 main();
 
 async function main() {
-  const x = 1213;
+  const y = 1213;
 
-  console.log(x ^ 3);
+  console.log(y ^ 3);
 }
