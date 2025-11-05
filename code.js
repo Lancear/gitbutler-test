@@ -1,6 +1,6 @@
-main();
+start();
 
-async function main() {
+async function start() {
   const y = 12;
 
   console.log(y ^ 3);
